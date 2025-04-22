@@ -28,7 +28,7 @@
 
 这是一个基于 PyQt5 的视频数据集标注程序，通过大模型生成 AI 推理数据。该系统为"智能视频标注分析平台（慧影）- VIAL (Video Intelligent Annotation Lab)"。
 
-[English README](./README-en.md)
+中文版使用说明：[中文介绍](./README-zh.md)  英文版使用说明：[English README](./README-en.md)
 
 
 ## 功能特点
