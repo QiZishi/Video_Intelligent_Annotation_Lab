@@ -1,0 +1,10 @@
+{
+    "api_keys": [
+        "your_api_key_here"
+    ],
+    "api_base": "https://api.wisediag.com/v1",
+    "model": "zzkj-think",
+    "system_prompt": "填入系统提示语",
+    "user_prompt_template": "{description}\n\n视频诊断结果为：{final_diagnosis}\n\n以上是你观察到的视频内容，现在请基于你的观察结果，详细思考分析<填入用户需求>？",
+    "human_prompt_template": "<image>\n分析所给的视频,告诉我<填入用户需求> "
+}

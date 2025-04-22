@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.spec
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# User-specific configurations (if any, add them here)
+# config/user_api_config.json  # 取消注释以忽略用户API配置
+# config/output_folder_config.json # 取消注释以忽略用户输出文件夹配置
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
